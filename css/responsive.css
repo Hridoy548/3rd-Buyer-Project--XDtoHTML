@@ -44,11 +44,15 @@
         text-align: center;
     }
     .slider_content__left h1 {
-        font-size: 45px;
+        font-size: 35px;
     }
     .slider_content__right img {
         border-radius: 15px;
         margin-bottom: 20px;
+    }
+    .slider_content__left a {
+        margin-top: 10px;
+        padding: 3px 10px 5px;
     }
     .owl-nav {
         display: none;
@@ -56,7 +60,6 @@
     .slider_area  .owl-dots {
         display: block;
     }
-
     /* Box Area Start */ 
     .box_area {
         position: static;
