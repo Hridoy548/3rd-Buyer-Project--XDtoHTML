@@ -96,11 +96,7 @@
         font-size: 35px;
         width: 100%;
     }
-    .service__boxcess {
-        flex-direction: column;
-    }
     .service__boxcess a {
-        width: 300px;
         margin: 0 auto 30px;
     }
     .service__boxcess a img {
@@ -611,6 +607,12 @@
     .slicknav_menu ul {
         padding-top: 36px;
     }
+    .service__boxcess a {
+        width: 47%;
+    }
+    .service__boxcess a h5 {
+        font-size: 15px;
+    }
 }
 @media only screen and (min-width: 401px) {
     .slicknav_nav {
@@ -621,6 +623,9 @@
     }
     .slicknav_menu ul {
         padding-top: 36px;
+    }
+    .service__boxcess a {
+        width: 47%;
     }
 }
 @media only screen and (min-width: 501px) {
