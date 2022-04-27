@@ -179,6 +179,17 @@
     .contact_left form {
         padding: 50px 20px 35px;
     }
+    .contact_left form input {
+        height: 0;
+        padding: 20px 5px;
+    }
+    .contact_left form textarea {
+        height: 90px;
+        margin-bottom: 0;
+    }
+    .contact_left form {
+        margin-top: 50px;
+    }
     /* Footer Area Start */
     .my_footer {
         padding: 50px 0;
