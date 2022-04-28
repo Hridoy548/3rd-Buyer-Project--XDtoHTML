@@ -316,11 +316,13 @@ html {
     border-radius: 15px;
     box-shadow: 0 0 0.1875rem 0 #1f1f1f;
     margin-bottom: 30px;
-    color: #000;
+    color: #fff;
+    background: #0a7237;
     cursor: pointer;
 }
 .service__boxcess a:hover {
-    color: #000;
+    color: #fff;
+    background: #0a7237;
 } 
 .service__boxcess a img {
     width: 80px;
