@@ -44,7 +44,7 @@
         text-align: center;
     }
     .slider_content__left h1 {
-        font-size: 35px;
+        font-size: 40px;
     }
     .slider_content__right img {
         border-radius: 15px;
@@ -97,7 +97,7 @@
         width: 100%;
     }
     .service__boxcess a {
-        margin: 0 auto 30px;
+        margin: 0 auto 15px;
     }
     .service__boxcess a img {
         margin: 10px 0 45px;
@@ -106,7 +106,7 @@
         text-transform: uppercase;
     }
     .srvice_ancor {
-        margin-top: 20px;
+        margin-top: 35px;
     }
     /* Choose Area Start */ 
     .choose_boxcess {
