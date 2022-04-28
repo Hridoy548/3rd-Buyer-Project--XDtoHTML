@@ -72,11 +72,11 @@
     .main_box {
         width: 275px;
         margin: 0 auto 20px;
-        background-color: #00a849;
+        background-color: #0a7237;
         color: #fff;
     }
     .main_box:hover {
-        background-color: #00a849;
+        background-color: #0a7237;
         color: #fff;
     }
     /* Speciallity Start */
@@ -126,6 +126,7 @@
     .brand_content__container img {
         width: 35px;
         height: 35px;
+        margin-bottom: 0;
     }
     .brand_content__container {
         flex-direction: column;
@@ -233,8 +234,11 @@
         width: 100%;
     }
     .brad_real__content ul li a {
-        background-color: #00a849;
+        background-color: #0a7237;
         color: #fff;
+    }
+    .brad_real__content ul li a:hover {
+        background-color: #0a7237;
     }
     /* Service Repaire Area Start */
     #repair .brandvic_heading img {
