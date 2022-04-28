@@ -63,7 +63,7 @@
     /* Box Area Start */ 
     .box_area {
         position: static;
-        margin-top: 80px;
+        margin-top: 130px;
         margin-bottom: 0;
     }
     .box_content__container {
@@ -72,6 +72,12 @@
     .main_box {
         width: 275px;
         margin: 0 auto 20px;
+        background-color: #00a849;
+        color: #fff;
+    }
+    .main_box:hover {
+        background-color: #00a849;
+        color: #fff;
     }
     /* Speciallity Start */
     .special_area {
@@ -225,6 +231,10 @@
     }
     .brandvic_main__image img {
         width: 100%;
+    }
+    .brad_real__content ul li a {
+        background-color: #00a849;
+        color: #fff;
     }
     /* Service Repaire Area Start */
     #repair .brandvic_heading img {
@@ -491,7 +501,7 @@
         flex-flow: row wrap;
     }
     .service__boxcess a {
-        width: 23%;
+        width: 23% !important;
         margin-bottom: 30px;
     }
     .srvice_ancor {
